@@ -1,4 +1,4 @@
-Discord bot bulit using JavaScript / Node.js to send words of encouragement to people/ bots on a server.
+Discord bot built using JavaScript / Node.js to send words of encouragement to people/ bots on a server.
 Based on : https://youtu.be/7rU_KyudGBY
 Talk to Encourage Bot :https://discord.gg/jgVkDaRwDR
 
